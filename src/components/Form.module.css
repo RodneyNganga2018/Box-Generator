@@ -1,0 +1,28 @@
+.formGroup {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.form {
+    margin: 0 10px;
+    height: 30px;
+    border-radius: 5px 5px;
+}
+
+.form #submit {
+    cursor: pointer;
+    border: 0;
+}
+
+.form label {
+    border: 0;
+}
+
+.formInput {
+    background-color: rgb(228, 228, 228);
+    border: 0;
+    border-radius: 5px 5px;
+    height: 30px;
+}
